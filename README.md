@@ -1,4 +1,4 @@
-Demos for [轻松学，浅析依赖倒置（DIP）、控制反转 (IOC) 和依赖注入 (DI)(http://blog.csdn.net/briblue/article/details/75093382)]
+Demos for [轻松学，浅析依赖倒置（DIP）、控制反转 (IOC) 和依赖注入 (DI)](http://blog.csdn.net/briblue/article/details/75093382)
 
 1. DIP
     1. 上层模块不应该依赖底层模块，它们都应该依赖于抽象。
